@@ -1,6 +1,6 @@
 # pdf-to-image-converter-v1.1
 It is the second version of my pdf to image converter. Here the results are more organized.
-It is a pdf to image convertor. Fully free to use. Please read the instructions first.<br>
+It is a pdf to image convertor. Fully free to use. <b>Please read the instructions first.</b><br>
 Before running this program install pdf2image by running this code in your command prompt:
 <code>pip install pdf2image</code><br>
 You can also know more about pdf2image module and it's installation process from <a href="https://pypi.org/project/pdf2image/">pypi.org</a><br>
